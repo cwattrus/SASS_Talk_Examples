@@ -29,4 +29,5 @@ $ gem install sass
 4. Watch the Sass files
 ```
 $ sass --watch stylesheets/sass/:stylesheets/
+```
 
